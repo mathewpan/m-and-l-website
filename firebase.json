@@ -1,0 +1,9 @@
+{
+  "firebase": "m-and-l-website",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
