@@ -1,3 +1,3 @@
 #!/bin/bash
 echo Deploying to firebase
-firebase deploy
+firebase deploy --non-interactive
